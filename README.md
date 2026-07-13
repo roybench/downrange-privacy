@@ -1,2 +1,2 @@
-# downrange-privacy
-Downrange Privacy Policy
+# downrange Sharpshooter-privacy
+Downrange Sharpshooter Privacy Policy
