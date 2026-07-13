@@ -1,12 +1,12 @@
-# Privacy Policy for Downrange
+# Privacy Policy for Downrange: Sharpshooter
 
 **Last updated: July 13, 2026**
 
-Downrange ("the App") is developed by Roy Raedisch ("we," "us," or "our"). This Privacy Policy explains how we handle information when you use the App.
+Downrange: Sharpshooter ("the App") is developed by Roy Raedisch ("we," "us," or "our"). This Privacy Policy explains how we handle information when you use the App.
 
 ## The short version
 
-Downrange does not collect, transmit, or share any personal information. All game data stays on your device.
+Downrange: Sharpshooter does not collect, transmit, or share any personal information. All game data stays on your device.
 
 ## What data the App stores
 
